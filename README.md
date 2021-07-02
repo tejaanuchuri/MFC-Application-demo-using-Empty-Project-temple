@@ -17,7 +17,7 @@
 
         void main() { 
           cout << "***************************************\n"; 
-          cout << "MFC Application Tutorial"; 
+          cout << "MFC Application form scratch using empty template"; 
           cout << "\n***************************************"; 
           getchar(); 
        }
